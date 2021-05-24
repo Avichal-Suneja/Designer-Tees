@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276988325383",
+    "project_id": "designer-tee",
+    "storage_bucket": "designer-tee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276988325383:android:74af258c0b8faa85c784a2",
+        "android_client_info": {
+          "package_name": "com.avichal.designer_tee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276988325383-iva3ueg148cmfrjo0pboho0prvh3tdb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAHvD7s_Mtu0fHKfhny-SrBB28fwK_p9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276988325383-iva3ueg148cmfrjo0pboho0prvh3tdb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
